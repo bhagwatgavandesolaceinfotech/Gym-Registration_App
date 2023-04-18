@@ -1,0 +1,44 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Virat ",
+      "lastName": "Kohali",
+      "email": "vk@yopmail.com",
+      "mobile": "1234567890",
+      "weight": "65",
+      "height": 1.53,
+      "bmi": 28.88888888888889,
+      "bmiResult": "Normalweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-02-28T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Amit ",
+      "lastName": "Khote",
+      "email": "amikhote@yopmail.com",
+      "mobile": "1234567890",
+      "weight": "64",
+      "height": 1.53,
+      "bmi": 28.444444444444443,
+      "bmiResult": "Normalweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-04-19T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
